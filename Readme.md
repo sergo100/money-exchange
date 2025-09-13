@@ -36,10 +36,12 @@ git clone <URL_репозитория>
 cd money-exchange
 ```
 3. Скомпилируйте проект:
-``` javac Main.java
+``` 
+javac Main.java
 ```
 4. Запустите программу:
-``` java Main
+``` 
+java Main
 ```
 ## Пример работы
 ````
