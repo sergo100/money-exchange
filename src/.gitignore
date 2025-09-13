@@ -1,0 +1,31 @@
+# Скомпилированные классы
+*.class
+
+# Логи
+*.log
+
+# Папки сборки
+/out/
+/target/
+/build/
+
+# Конфиги IntelliJ IDEA
+.idea/
+*.iml
+
+# Конфиги Eclipse
+.project
+.classpath
+.settings/
+
+# Конфиги NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Кэш OS
+.DS_Store
+Thumbs.db
